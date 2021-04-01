@@ -1,0 +1,2 @@
+# ECGmagick
+封装imagemagick命令行的pdf2jpg图形界面
